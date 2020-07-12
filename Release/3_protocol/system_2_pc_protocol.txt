@@ -1,0 +1,20 @@
+PC & PC: (BRAIN - external computer, EYE - the image recognition system)
+
+1
+     
+     BRAIN: "next" - the source wants to know, is the system busy
+       EYE: "yes"
+         BRAIN: Image.bmp - new image
+     else
+       EYE: "no"
+	 BRAIN: is waiting
+
+3
+
+     BRAIN: "last" - BRAIN запрашивает у EYE файл с разметкой последнего распознанного изображения
+       EYE: annotation.json
+
+4
+
+     BRAIN: "ping" - work check
+       EYE: "pong"
