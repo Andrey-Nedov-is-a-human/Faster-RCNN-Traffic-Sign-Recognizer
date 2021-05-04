@@ -1,3 +1,1 @@
-# Система распознавания дорожных знаков с использованием Faster-RCNN
-
-# Making a traffic sign recognition system with Faster-RCNN
+# Система распознавания дорожных знаков с использованием Faster-RCNN<br/><br/>Making a traffic sign recognition system with Faster-RCNN
