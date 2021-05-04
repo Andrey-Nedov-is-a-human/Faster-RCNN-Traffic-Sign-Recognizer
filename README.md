@@ -1,9 +1,9 @@
 # Система распознавания дорожных знаков с использованием Mask-RCNN<br/><br/>Making a traffic sign recognition system using Mask-RCNN
 
+<img src="/Release/img1.png" alt="img1" width="800"/>
+
 ## Задание
 Сделать изолированную систему, принемающую на вход изображение с передней камеры автомобиля, отдающая на выходе JSON файл с разметкой, описывающей маски и классы всех найденных дорожных знаков.
 
-<img src="/Release/img1.png" alt="img1" width="500"/>
-
 ## Архитектура системы
-<img src="/Release/img2.jpg" alt="img1" width="500"/>
+<img src="/Release/img2.jpg" alt="img1" width="800"/>
