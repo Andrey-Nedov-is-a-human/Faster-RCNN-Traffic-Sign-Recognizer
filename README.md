@@ -12,9 +12,12 @@
 1. UPD UI - пользовательская консоль управления конфигурацией системы
 2. UDP manager - порт по которому система получает изображения и отдаёт JSON разметку
 
+## Консольный интерфейс системы
+
+
 ## Mask-RCNN
 Модель Mask-RCNN обучалась на датасете, составленном из записей с камер видеорегистраторов и размеченной в редакторе.
 
 <img src="/Release/img4.png" alt="img1" width="800"/>
 
-Обученную модель можно скачать из хранилища па ссылке [model.pt](https://drive.google.com/file/d/1vuOjKoNq4VE6BUToBDe6hceUEEWTRve_/view?usp=sharing)
+Обученную модель можно скачать из хранилища по ссылке [model.pt](https://drive.google.com/file/d/1vuOjKoNq4VE6BUToBDe6hceUEEWTRve_/view?usp=sharing)
