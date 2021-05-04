@@ -25,7 +25,7 @@
 
 <img src="/Release/img6.jpg" alt="img1" width="800"/>
 
-## Резульат работы программы
+## Результат работы программы
 
 <img src="/Release/img3.jpg" alt="img1" width="800"/>
 
