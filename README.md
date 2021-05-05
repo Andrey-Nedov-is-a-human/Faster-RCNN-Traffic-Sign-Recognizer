@@ -3,8 +3,8 @@
 <img src="/Release/img1.png" alt="img1" width="800"/>
 
 *Команда*
-1. Ботнарь Олег
-2. [Недов Андрей](https://github.com/Andrey-Nedov-is-a-human)
+1. [Олег Ботнарь](https://github.com/fronos)
+2. [Андрей Недов](https://github.com/Andrey-Nedov-is-a-human)
 
 
 ## Задание
