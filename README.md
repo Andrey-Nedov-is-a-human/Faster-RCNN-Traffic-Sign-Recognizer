@@ -2,7 +2,7 @@
 
 <img src="/Release/img1.png" alt="img1" width="800"/>
 
-*Команда*
+*Разработчики/Developers*
 1. [Олег Ботнарь](https://github.com/fronos)
 2. [Андрей Недов](https://github.com/Andrey-Nedov-is-a-human)
 
