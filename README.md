@@ -1,4 +1,4 @@
-# Система распознавания дорожных знаков с использованием Mask-RCNN<br/><br/>Making a traffic sign recognition system using Mask-RCNN
+# Система распознавания дорожных знаков с использованием Mask-RCNN / Making a traffic sign recognition system using Mask-RCNN
 
 <img src="/Release/img1.png" alt="img1" width="800"/>
 
