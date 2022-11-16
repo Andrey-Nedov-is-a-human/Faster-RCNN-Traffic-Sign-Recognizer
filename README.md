@@ -3,8 +3,8 @@
 <img src="/Release/img1.png" alt="img1" width="800"/>
 
 *Developers*
-1. [Andrey Nedov](https://github.com/Andrey-Nedov)
-2. [Oleg Botnar](https://github.com/fronos)
+1. [Oleg Botnar](https://github.com/fronos)
+2. [Andrey Nedov](https://github.com/Andrey-Nedov)
 
 
 ## Task
