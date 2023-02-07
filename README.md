@@ -2,6 +2,8 @@
 
 <img src="/Release/img1.png" alt="img1" width="800"/>
 
+*12.07.2020*
+
 *Developers*
 1. [Oleg Botnar](https://github.com/fronos)
 2. [Andrey Nedov](https://github.com/Andrey-Nedov)
